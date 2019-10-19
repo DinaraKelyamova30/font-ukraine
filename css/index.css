@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1050px;
+    height: 300px;
+    margin: auto;
+    border: 2px dotted purple;
+    display: flex;
+    flex-direction: row;
+}
+
+.ukraine {
+    width: 150px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+#geometric1 {
+    width: 40px;
+    height: 100px;
+    background: yellow;
+    position: absolute;
+}
+
+#geometric1-2 {
+    background: yellow;
+    content: "";
+    height: 40px;
+    left: 255px;
+    position: absolute;
+    top: 100px;
+    width: 100px;
+}
+
+#geometric2 {
+    background: yellow;
+    height: 40px;
+    left: 255px;
+    position: absolute;
+    top: 246px;
+    width: 100px;
+}
+
+#geometric3 {
+    width: 40px;
+    height: 275px;
+    background: yellow;
+    position: absolute;
+    left: 360px;
+}
+
+#geometric4 {
+    width: 40px;
+    height: 275px;
+    background: blue;
+    position: absolute;
+    left: 420px;
+}
+
+#geometric5 {
+    width: 40px;
+    height: 140px;
+    background: blue;
+    position: absolute;
+    left: 470px;
+    transform: rotate(35deg);
+}
+
+
+#geometric6 {
+    width: 40px;
+    height: 140px;
+    background: blue;
+    position: absolute;
+    left: 470px;
+    top: 150px;
+    transform: rotate(145deg);
+}
+
+#geometric7 {
+    width: 40px;
+    height: 275px;
+    background: yellow;
+    position: absolute;
+    left: 560px;
+}
+
+#geometric8 {
+    background: yellow;
+    height: 40px;
+    left: 605px;
+    position: absolute;
+    top: 100px;
+    width: 80px;
+}
+
+#geometric9 {
+    width: 40px;
+    height: 100px;
+    background: yellow;
+    position: absolute;
+    left: 645px;
+}
+
+#geometric10 {
+    background: yellow;
+    height: 40px;
+    left: 605px;
+    position: absolute;
+    top: 12px;
+    width: 80px;
+}
+
+#geometric11 {
+    width: 40px;
+    height: 270px;
+    background: blue;
+    position: absolute;
+    left: 720px;
+    transform: rotate(7deg);
+}
+
+
+#geometric12 {
+    width: 40px;
+    height: 270px;
+    background: blue;
+    position: absolute;
+    left: 790px;
+    top: 10px;
+    transform: rotate(170deg);
+}
+
+#geometric13 {
+    background: blue;
+    height: 40px;
+    left: 740px;
+    position: absolute;
+    top: 150px;
+    width: 80px;
+}
+
+#geometric14 {
+    width: 40px;
+    height: 205px;
+    background: yellow;
+    position: absolute;
+    left: 900px;
+    top: 80px;
+}
+
+#geometric15 {
+    background: yellow;
+    height: 40px;
+    left: 870px;
+    position: absolute;
+    top: 12px;
+    width: 40px;
+}
+
+#geometric16 {
+    background: yellow;
+    height: 40px;
+    left: 930px;
+    position: absolute;
+    top: 12px;
+    width: 40px;
+}
+
+#geometric17 {
+    width: 40px;
+    height: 275px;
+    background: blue;
+    position: absolute;
+    left: 990px;
+}
+
+#geometric18 {
+    width: 40px;
+    height: 275px;
+    background: blue;
+    position: absolute;
+    left: 1080px;
+}
+
+#geometric19 {
+    background: blue;
+    height: 40px;
+    left: 1035px;
+    position: absolute;
+    top: 120px;
+    width: 40px;
+}
+
+#geometric20 {
+    width: 40px;
+    height: 270px;
+    background: yellow;
+    position: absolute;
+    left: 1150px;
+    transform: rotate(7deg);
+}
+
+
+#geometric21 {
+    width: 40px;
+    height: 270px;
+    background: yellow;
+    position: absolute;
+    left: 1220px;
+    top: 10px;
+    transform: rotate(170deg);
+}
+
+#geometric22 {
+    background: yellow;
+    height: 40px;
+    left: 1180px;
+    position: absolute;
+    top: 150px;
+    width: 80px;
+}
